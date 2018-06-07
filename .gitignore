@@ -1,0 +1,15 @@
+data
+node_modules
+.env
+build
+dist
+.DS_Store
+src/.DS_Store
+package-lock.json
+.idea
+.env
+public
+yarn.lock
+yarn-error.log
+db/data
+test/coverage
